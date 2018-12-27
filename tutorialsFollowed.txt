@@ -1,0 +1,8 @@
+TUTORIALS FOLLOWED
+
+(Create Dynamic Web Page)
+https://crunchify.com/how-to-create-dynamic-web-project-using-maven-in-eclipse/
+	(install maven) -> https://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/
+	
+(Use Servlet)
+https://medium.com/@kasunpdh/sample-java-web-application-using-servlets-and-jsp-5621cad2f582
