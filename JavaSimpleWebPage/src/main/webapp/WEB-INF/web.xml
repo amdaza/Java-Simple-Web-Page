@@ -4,4 +4,14 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>SelectExampleServlet</servlet-name>
+  	<display-name>SelectExampleServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.upspain.simplewebpage.servlet.SelectExampleServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>SelectExampleServlet</servlet-name>
+  	<url-pattern>/SelectExampleServlet</url-pattern>
+  </servlet-mapping>
 </web-app>
